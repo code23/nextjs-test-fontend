@@ -19,4 +19,14 @@ export const navItems = [
     label: 'Vendors',
     href: '/vendors',
   },
+  {
+    key: 'charities',
+    label: 'Charities',
+    href: '/charities',
+  },
+  {
+    key: 'Tags',
+    label: 'Tags',
+    href: '/tags',
+  },
 ]
